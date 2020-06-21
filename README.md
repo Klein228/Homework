@@ -1,1 +1,1 @@
-finacci数列
+fibonacci数列
