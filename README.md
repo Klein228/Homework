@@ -1,0 +1,1 @@
+finacci数列
